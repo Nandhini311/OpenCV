@@ -20,7 +20,7 @@ library “argparse” as it handles in a more systematic way.
 -------------------------------------------------------------------
 
 ### Code
-```javascript
+```python
  import argparse
  parser = argparse.ArgumentParser()
  parser.add_argument(“first_argument”, help=”this is the string with the first argument”)
