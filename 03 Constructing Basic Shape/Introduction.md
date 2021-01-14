@@ -10,7 +10,7 @@ The following topics will be covered in this module:
 5. Dynamic drawing with mouse events
 6. Advanced drawing
 
-BASIC TERMINOLGOIES
+#### BASIC TERMINOLGOIES
 1. img: the image where the shape will be drawn
 2. color: color (BGR triplet) used to draw the shape
 3. thickness: if positive shape outline will be drawn
