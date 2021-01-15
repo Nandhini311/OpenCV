@@ -22,3 +22,4 @@ The following topics will be covered in this module:
    cv2.LINE_AA - anti-aliased lines
 5. shift: number of fractional bits in connection with coordinates of some points defining the shape
 
+###### show_matlplotlib.py file has the colors list and function used to display using matplotlib
